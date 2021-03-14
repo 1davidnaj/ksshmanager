@@ -1,0 +1,1 @@
+konsole --separate --noclose -e "ssh forge@192.81.223.181"

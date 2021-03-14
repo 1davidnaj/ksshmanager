@@ -1,0 +1,124 @@
+/snap/clion/139/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/home/davidnaj/Qt/6.0.2/gcc_64/lib/cmake -G "CodeBlocks - Unix Makefiles" /home/davidnaj/cpp/ksshmanager
+Installing in /usr/local. Run /home/davidnaj/cpp/ksshmanager/cmake-build-debug/prefix.sh to set the environment for ksshmanager.
+CMake Warning (dev) at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args` (KF5Config)
+  does not match the name of the calling package (KF5).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/share/ECM/find-modules/FindKF5.cmake:78 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args` (KF5Crash)
+  does not match the name of the calling package (KF5).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/share/ECM/find-modules/FindKF5.cmake:78 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (KF5DocTools) does not match the name of the calling package (KF5).  This
+  can lead to problems in calling code that expects `find_package` result
+  variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/share/ECM/find-modules/FindKF5.cmake:78 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args` (KF5I18n)
+  does not match the name of the calling package (KF5).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/share/ECM/find-modules/FindKF5.cmake:78 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (KF5IconThemes) does not match the name of the calling package (KF5).  This
+  can lead to problems in calling code that expects `find_package` result
+  variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/share/ECM/find-modules/FindKF5.cmake:78 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (KF5NotifyConfig) does not match the name of the calling package (KF5).
+  This can lead to problems in calling code that expects `find_package`
+  result variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/share/ECM/find-modules/FindKF5.cmake:78 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (KF5Notifications) does not match the name of the calling package (KF5).
+  This can lead to problems in calling code that expects `find_package`
+  result variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/share/ECM/find-modules/FindKF5.cmake:78 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args`
+  (KF5TextWidgets) does not match the name of the calling package (KF5).
+  This can lead to problems in calling code that expects `find_package`
+  result variables (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/share/ECM/find-modules/FindKF5.cmake:78 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at /snap/clion/139/bin/cmake/linux/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args` (KF5XmlGui)
+  does not match the name of the calling package (KF5).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/share/ECM/find-modules/FindKF5.cmake:78 (find_package_handle_standard_args)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+Installing in /usr/local. Run /home/davidnaj/cpp/ksshmanager/cmake-build-debug/prefix.sh to set the environment for ksshmanager.
+-- Could not set up the appstream test. appstreamcli is missing.
+-- The following OPTIONAL packages have been found:
+
+ * KF5Sonnet (required version >= 5.68.0)
+ * KF5CoreAddons (required version >= 5.68.0)
+ * KF5Auth (required version >= 5.68.0)
+ * KF5Codecs (required version >= 5.68.0)
+ * KF5WidgetsAddons (required version >= 5.68.0)
+ * KF5ConfigWidgets (required version >= 5.68.0)
+
+-- The following REQUIRED packages have been found:
+
+ * ECM (required version >= 1.0.0)
+ * Qt5Gui (required version >= 5.12.8)
+ * Qt5 (required version >= 5.12.0)
+ * KF5Crash (required version >= 5.57.0)
+ * KF5DocTools (required version >= 5.57.0)
+ * KF5IconThemes (required version >= 5.57.0)
+ * KF5NotifyConfig (required version >= 5.57.0)
+ * KF5Notifications (required version >= 5.57.0)
+ * Gettext
+ * KF5I18n (required version >= 5.68.0)
+ * KF5TextWidgets (required version >= 5.57.0)
+ * Qt5Widgets (required version >= 5.12.0)
+ * KF5XmlGui (required version >= 5.57.0)
+ * KF5 (required version >= 5.57.0)
+ * Qt5Core
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/davidnaj/cpp/ksshmanager/cmake-build-debug

@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+d14917f3832ed78a1eef7fdd68378fc0 CMakeFiles/fetch-translations
+426119db1ae58426ed9a798c790ae90f CMakeFiles/ksshmanager_autogen
+20540b295812b2fc7083526a1ae7f9fd CMakeFiles/uninstall
+55f65ca4da9a6676b8d580f838b681e8 releaseme
+9a674de669231a605a389fee78f5ff83 ui_add_ssh_session_dialog.h
+b23174819df529423d9473851b7e6768 ui_settings.h
+e949375eeca6d286e88531d6594d4164 ui_settings_dialog.h

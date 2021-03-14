@@ -1,0 +1,1 @@
+x-terminal-emulator -e "ssh root@37.139.15.104"
